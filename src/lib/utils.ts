@@ -27,8 +27,8 @@ export function formatPrice(
 }
 
 export function constructMetadata({
-  title = 'Agro Market - the marketplace for digital assets',
-  description = 'Agro Market is an open-source marketplace for high-quality digital goods.',
+  title = 'Farmup - the marketplace for digital assets',
+  description = 'Farmup is an open-source marketplace for high-quality digital goods.',
   image = '/thumbnail.png',
   icons = '/favicon.ico',
   noIndex = false,

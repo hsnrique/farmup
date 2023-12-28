@@ -15,7 +15,7 @@ export const Orders: CollectionConfig = {
   admin: {
     useAsTitle: 'Your Orders',
     description:
-      'A summary of all your orders on Agro Market.',
+      'A summary of all your orders on Farmup.',
   },
   access: {
     read: yourOwn,

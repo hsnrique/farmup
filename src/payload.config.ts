@@ -24,7 +24,7 @@ export default buildConfig({
     user: 'users',
     bundler: webpackBundler(),
     meta: {
-      titleSuffix: '- Agro Market',
+      titleSuffix: '- Farmup',
       favicon: '/favicon.ico',
       ogImage: '/thumbnail.jpg',
     },
